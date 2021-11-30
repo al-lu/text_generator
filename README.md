@@ -18,6 +18,9 @@ Testing if it is possible to make a chatbot with endless topics to talk about.
 REQUIREMENTS
 ------------
 
+Python 3
+Dependency packages
+
 RECOMMENDED MODULES
 -------------------
 
