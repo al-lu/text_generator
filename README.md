@@ -13,7 +13,7 @@ INTRODUCTION
 ------------
 Testing if it is possible to make a chatbot with endless topics to talk about.
 
-![Text Generator Demo](demo/text_gen.gif)
+![Text Generator Demo](https://github.com/al-lu/text_generator/blob/main/demo/tex_gen.gif)
 
 REQUIREMENTS
 ------------
